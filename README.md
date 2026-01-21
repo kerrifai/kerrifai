@@ -57,6 +57,6 @@ I'm **Karim**, an Automation and Industrial Electronics Engineer passionate abou
 
 ## 📫 How to reach me
 - ✉️ Email: *karimerrifai@gmail.com*  
-- 💼 LinkedIn: *https://www.linkedin.com/in/karim-errifai-haddaoui-17a7941b0/*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/karim-errifai-haddaoui*  
 
 ---

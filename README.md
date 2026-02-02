@@ -1,6 +1,6 @@
 ## 👋 Hi there! Welcome to my GitHub
 
-I'm **Karim**, an Automation and Industrial Electronics Engineer passionate about building **scalable, modular and reliable systems** for real-world applications — from low-level drivers in C to data-driven applications and AI-enhanced automation.
+I'm Karim, an Automation and Industrial Electronics Developer passionate about building **scalable, modular and reliable systems** for real-world applications — from low-level drivers in C to data-driven applications and AI-enhanced automation.
 
 ---
 
@@ -23,8 +23,7 @@ I'm **Karim**, an Automation and Industrial Electronics Engineer passionate abou
 - 🤖 **Generative AI & AI Agents**:  
   - Autonomous task agents  
   - LLM-based decision pipelines  
-  - Tools, retrieval, reasoning & automation
-- 🧪 MLOps foundations: reproducible pipelines, data validation, model versioning.
+  - MLOps foundations: reproducible pipelines, data validation, model versioning.
 
 ---
 
@@ -33,7 +32,7 @@ I'm **Karim**, an Automation and Industrial Electronics Engineer passionate abou
 - 🧠 Training ML models for classification, forecasting & anomaly detection.  
 - 🧪 Evaluation using precision/recall, F1, ROC-AUC, cross-validation.  
 - 🗂️ Creating structured datasets from sensors, IoT devices or APIs.  
-- 🤖 Designing **AI agents** for monitoring, optimization or real-time decision support.  
+- 🤖 Designing AI agents for monitoring, optimization or real-time decision support.  
 - 📡 Applying ML and AI to embedded systems.
 
 ---
@@ -45,13 +44,6 @@ I'm **Karim**, an Automation and Industrial Electronics Engineer passionate abou
 **Data/AI:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow Lite  
 **Automation:** Python scripts, Bash tooling, CI/CD
 **Tools:** Git, Linux, Docker
-
----
-
-## 🤝 I’m looking to collaborate on
-- Embedded systems (ESP32, STM32, NXP).
-- Python tooling, ML modelling & data-driven automation.  
-- AI agent systems and applied generative AI.
 
 ---
 
